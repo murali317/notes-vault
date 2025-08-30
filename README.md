@@ -15,19 +15,15 @@ Notes Vault allows users to create, save, and manage their notes in real-time, a
 ---
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js, CSS  
-- **Backend/Database:** Firebase Firestore  
+- **Frontend:** CSS, React.js  
+- **Backend/Database:** Firebase & Firestore  
 - **Authentication:** Firebase Auth  
 
 ---
 
 ## 📸 Screenshots
-*(Add your app screenshots here — homepage, notes list, add note screen, etc.)*  
+
+   <img width="711" height="427" alt="{4D9D7156-6243-4465-BE5F-C5084DBCC6BF}" src="https://github.com/user-attachments/assets/571408ca-0ae4-4d7d-ad1e-723505e08cdc" />
+
 
 ---
-
-## 🏗️ Installation & Setup
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/yourusername/notes-vault.git
-   cd notes-vault
