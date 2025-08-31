@@ -21,6 +21,10 @@ Notes Vault allows users to create, save, and manage their notes in real-time, a
 
 ---
 
+- **Live Link:** https://auth-notesvault.netlify.app/
+
+---
+
 ## 📸 Screenshots
 
    <img width="711" height="427" alt="{4D9D7156-6243-4465-BE5F-C5084DBCC6BF}" src="https://github.com/user-attachments/assets/571408ca-0ae4-4d7d-ad1e-723505e08cdc" />
